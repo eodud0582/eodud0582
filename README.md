@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:exclamation: I'm currently looking for career opportunities in machine learning and data science. Please check out my projects and contact me if you have any questions!
-
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eodud0582&show_icons=true&theme=dark" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eodud0582&layout=compact&theme=dark" align = "center"/>
