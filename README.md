@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feodud0582%2Fhit-counter&count_bg=%233776AB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/eodud0582?style=social)
 
-## About
+## About me
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-222222?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@eodud0582)](https://velog.io/@eodud0582) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eodud0582/)](https://www.linkedin.com/in/eodud0582/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:eodud0582@gmail.com)](mailto:eodud0582@gmail.com)
