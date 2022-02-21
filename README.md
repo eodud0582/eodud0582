@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ![Daeyoung's github stats](https://github-readme-stats.vercel.app/api?username=eodud0582&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eodud0582&layout=compact&theme=dark)](https://github.com/eodud0582)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feodud0582%2Fhit-counter&count_bg=%232F72B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feodud0582%2Fhit-counter&count_bg=%233776AB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/eodud0582?style=social)
-
-
 
 ## About
 
@@ -36,6 +32,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/eodud0582/">
     <img 
-        src="http://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/eodud0582/"
+        src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/eodud0582/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
