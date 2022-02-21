@@ -1,4 +1,4 @@
-## 👋 Have a great day
+## 👋 Hi there, I'm Daeyoung Kim!
 
 <!--
 **eodud0582/eodud0582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:exclamation: I'm currently looking for career opportunities in machine learning and data science. Please check out my projects and contact me if you have any questions!
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eodud0582&show_icons=true&theme=dark" align = "center"/>
