@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Daeyoung's github stats](https://github-readme-stats.vercel.app/api?username=eodud0582&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eodud0582&layout=compact&theme=dark&card_width=250)](https://github.com/eodud0582)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eodud0582&layout=compact&theme=dark&card_width=270)](https://github.com/eodud0582)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feodud0582%2Fhit-counter&count_bg=%233776AB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/eodud0582?style=social)
