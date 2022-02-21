@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://velog.io/@eodud0582">
+    <img 
+        src="http://img.shields.io/badge/-velog-222222?style=flat&logo=Velog&link=https://velog.io/@eodud0582"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="https://www.linkedin.com/in/eodud0582/">
+    <img 
+        src="http://img.shields.io/badge/-LinkedIn-222222?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/eodud0582/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
