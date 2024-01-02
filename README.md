@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![followers](https://img.shields.io/github/followers/eodud0582?style=social)
 
 ## :muscle: Stack
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![GCP Badge](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)
+![Python Badge](https://img.shields.io/badge/-Python-14354C?style=flat&logo=Python&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=MySQL&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Salesforce Badge](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white)
 ![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white)
