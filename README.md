@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ## :raising_hand_man: About me
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-222222?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@eodud0582)](https://velog.io/@eodud0582) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eodud0582/)](https://www.linkedin.com/in/eodud0582/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:eodud0582@gmail.com)](mailto:eodud0582@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eodud0582/)](https://www.linkedin.com/in/eodud0582/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:eodud0582@gmail.com)](mailto:eodud0582@gmail.com)
