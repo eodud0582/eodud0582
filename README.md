@@ -20,6 +20,7 @@
 ![SQL Badge](https://img.shields.io/badge/SQL-black?style=flat&logo=MySQL&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonwebservices&logoColor=white)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-black?style=flat&logo=Tableau&logoColor=white)
+![DataMining Badge](https://img.shields.io/badge/DataMining-black?style=flat&logo=&logoColor=white)
 ![ML/DL Badge](https://img.shields.io/badge/ML/DL-black?style=flat&logo=&logoColor=white)
 ![NLP Badge](https://img.shields.io/badge/NLP-black?style=flat&logo=&logoColor=white)
 <!--
