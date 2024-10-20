@@ -1,20 +1,24 @@
+<!--
 ## Hope you enjoy!
 
-<!--
 **eodud0582/eodud0582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eodud0582&show_icons=true&theme=dark" align = "center"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eodud0582&layout=compact&theme=dark" align = "center"/>
 </p>
 
-<!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feodud0582%2Fhit-counter&count_bg=%233776AB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 ![followers](https://img.shields.io/github/followers/eodud0582?style=social)
 -->
 
 ## My skills
 
+<!-- GitHub Stats -->
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eodud0582&layout=compact&theme=dark" align = "center"/>
+</p>
+
+<!-- Badges -->
 <!-- ![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=Python&logoColor=white) -->
 ![Python Badge](https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/SQL-black?style=flat&logo=MySQL&logoColor=white)
