@@ -1,3 +1,4 @@
+<!-- GitHub Stats -->
 <!--
 ## Hope you enjoy!
 
@@ -12,11 +13,6 @@
 -->
 
 ## My skills
-
-<!-- GitHub Stats -->
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eodud0582&layout=compact&theme=dark" align = "center"/>
-</p>
 
 <!-- Badges -->
 <!-- ![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=Python&logoColor=white) -->
